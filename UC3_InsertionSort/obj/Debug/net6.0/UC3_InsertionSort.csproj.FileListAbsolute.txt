@@ -1,0 +1,15 @@
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\bin\Debug\net6.0\UC3_InsertionSort.exe
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\bin\Debug\net6.0\UC3_InsertionSort.deps.json
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\bin\Debug\net6.0\UC3_InsertionSort.runtimeconfig.json
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\bin\Debug\net6.0\UC3_InsertionSort.dll
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\bin\Debug\net6.0\UC3_InsertionSort.pdb
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.csproj.AssemblyReference.cache
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.AssemblyInfoInputs.cache
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.AssemblyInfo.cs
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.csproj.CoreCompileInputs.cache
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.dll
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\refint\UC3_InsertionSort.dll
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.pdb
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\UC3_InsertionSort.genruntimeconfig.cache
+E:\RFP231\AlgorithmPrograms\UC3_InsertionSort\obj\Debug\net6.0\ref\UC3_InsertionSort.dll
