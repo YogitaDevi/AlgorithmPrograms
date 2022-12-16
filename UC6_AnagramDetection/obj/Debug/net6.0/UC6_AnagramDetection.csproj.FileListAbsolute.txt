@@ -1,0 +1,15 @@
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\bin\Debug\net6.0\UC6_AnagramDetection.exe
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\bin\Debug\net6.0\UC6_AnagramDetection.deps.json
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\bin\Debug\net6.0\UC6_AnagramDetection.runtimeconfig.json
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\bin\Debug\net6.0\UC6_AnagramDetection.dll
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\bin\Debug\net6.0\UC6_AnagramDetection.pdb
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.csproj.AssemblyReference.cache
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.AssemblyInfoInputs.cache
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.AssemblyInfo.cs
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.csproj.CoreCompileInputs.cache
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.dll
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\refint\UC6_AnagramDetection.dll
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.pdb
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\UC6_AnagramDetection.genruntimeconfig.cache
+E:\RFP231\AlgorithmPrograms\UC6_AnagramDetection\obj\Debug\net6.0\ref\UC6_AnagramDetection.dll
