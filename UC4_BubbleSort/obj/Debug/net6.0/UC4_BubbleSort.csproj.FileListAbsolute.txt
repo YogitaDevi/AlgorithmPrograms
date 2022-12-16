@@ -1,0 +1,15 @@
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\bin\Debug\net6.0\UC4_BubbleSort.exe
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\bin\Debug\net6.0\UC4_BubbleSort.deps.json
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\bin\Debug\net6.0\UC4_BubbleSort.runtimeconfig.json
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\bin\Debug\net6.0\UC4_BubbleSort.dll
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\bin\Debug\net6.0\UC4_BubbleSort.pdb
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.csproj.AssemblyReference.cache
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.AssemblyInfoInputs.cache
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.AssemblyInfo.cs
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.csproj.CoreCompileInputs.cache
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.dll
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\refint\UC4_BubbleSort.dll
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.pdb
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\UC4_BubbleSort.genruntimeconfig.cache
+E:\RFP231\AlgorithmPrograms\UC4_BubbleSort\obj\Debug\net6.0\ref\UC4_BubbleSort.dll
