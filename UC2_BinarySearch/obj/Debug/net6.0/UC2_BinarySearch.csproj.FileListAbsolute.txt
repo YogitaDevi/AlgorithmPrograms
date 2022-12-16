@@ -1,0 +1,15 @@
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\bin\Debug\net6.0\UC2_BinarySearch.exe
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\bin\Debug\net6.0\UC2_BinarySearch.deps.json
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\bin\Debug\net6.0\UC2_BinarySearch.runtimeconfig.json
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\bin\Debug\net6.0\UC2_BinarySearch.dll
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\bin\Debug\net6.0\UC2_BinarySearch.pdb
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.csproj.AssemblyReference.cache
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.AssemblyInfoInputs.cache
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.AssemblyInfo.cs
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.csproj.CoreCompileInputs.cache
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.dll
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\refint\UC2_BinarySearch.dll
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.pdb
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\UC2_BinarySearch.genruntimeconfig.cache
+E:\RFP231\AlgorithmPrograms\UC2_BinarySearch\obj\Debug\net6.0\ref\UC2_BinarySearch.dll
